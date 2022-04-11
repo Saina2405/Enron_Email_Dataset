@@ -21,7 +21,29 @@ classify 5 fams email → everyone’s mail → UI interface
 - [ ] Classify emails<br/>
 - [ ] Read news/links from given material<br/>
 
+---
+
 ### Day 2:
 - [ ] Classify emails<br/>
 - [ ] Read news/links from given material<br/>
 - [ ] Topic modeling
+### Summary Day 2:
+#### Difficulty:
+
+---
+
+### Day 3:
+### Summary Day 3:
+#### Difficulty:
+
+---
+
+### Day 4:
+### Summary Day 4:
+#### Difficulty:
+
+---
+
+### Day 5:
+### Summary Day 5:
+#### Difficulty:
