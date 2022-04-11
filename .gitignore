@@ -9,7 +9,6 @@ __pycache__/
 *$py.class
 ressources/
 sample/
-.data/v2.csv
 data/
 # C extensions
 *.so
