@@ -32,6 +32,7 @@ for path in Path('ressources\maildir').rglob(r'*\all_documents\*'):
 
 # creating the df with our dict
 df = pd.DataFrame(data)
+print(df.shape)
 
 # to csv
 to_csv = input("Do you want to do a csv file ?").lower()
