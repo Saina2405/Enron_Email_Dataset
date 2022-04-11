@@ -44,7 +44,7 @@ for path in Path('sample').rglob('*\all_documents\*'):
 
 
 
-
+#it's fucking bugged
 
 # with open(email_test,'r') as file:
 #     raw_email = Parser().parse(file)
