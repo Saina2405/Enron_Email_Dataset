@@ -1,6 +1,6 @@
 # Enron_Email_Usecase
 ## Tasks:
 ### Day 1:
-- Explore dataset, inditify emails from 5 VIPs  
-- Classify emails
+- Acquire & explore dataset
+- try to classify emails based on business email categories
 - Read news/links from given material
