@@ -4,7 +4,7 @@
 - 12/04: [M] NLP model, topic modeling  [A] MVP v1
 - 13/04: [M] MVP iteration... [A] MVP v2
 - 14/04: [M] Polish MVP [A]Slide finish
-- 15/04: [M] Reherse
+- 15/04: [M] Rehearse
   
 ## MVP 
 classify 5 fams email → everyone’s mail → UI interface
