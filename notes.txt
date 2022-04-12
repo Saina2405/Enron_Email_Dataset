@@ -30,5 +30,15 @@ reduce the dimension of our matrix
 top-down aproach ? (topic modeling)
 sparse matrix (scipy) 
 sparse k-mean (sklearn)
+
 tuple (post-tagging ?) -> type de mot en fonction du context (nltk function)
+https://www.nltk.org/book/ch05.html 
+
 gensim modeling library (lda vs lda.mallet)
+https://fr.wikipedia.org/wiki/TF-IDF 
+
+https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76 
+https://towardsdatascience.com/wthe-ultimate-guide-to-clustering-algorithms-and-topic-modeling-4f7757c115 
+https://rstudio-pubs-static.s3.amazonaws.com/72665_ea14c88f56d64a8b9366dc8c9aca6c5c.html 
+https://stackoverflow.com/questions/22797393/exactly-replicating-r-text-preprocessing-in-python 
+https://www.kaggle.com/code/jaykrishna/topic-modeling-enron-email-dataset/notebook 
