@@ -25,8 +25,10 @@ classify 5 fams email → everyone’s mail → UI interface
 
 ### Day 2:
 - [ ] Classify emails<br/>
-- [ ] Read news/links from given material<br/>
-- [ ] Topic modeling
+- ~~ Read news/links from given material ~~<br/>
+- [ ] Topic modeling  
+- [ ] Preprocessing & Cleaning the sample dataset
+- [ ] Learn NLTK, and try to implement to the sample dataset
 ### Summary Day 2:
 #### Difficulty:
 
