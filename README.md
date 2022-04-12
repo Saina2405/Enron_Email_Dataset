@@ -24,17 +24,25 @@ classify 5 fams email → everyone’s mail → UI interface
 ---
 
 ### Day 2:
-- [ ] Classify emails<br/>
-~~Read news/links from given material~~  
-- [ ] Topic modeling  
-- [ ] Preprocessing & Cleaning the sample dataset
-- [ ] Learn NLTK, and try to implement to the sample dataset
+- [ ] Classify emails <br/>
+~~Read news/links from given material~~  (discard)
+- [ ] Topic modeling
+- [x] Learning NLTK, sellecting correct methods for this project 
+- [x] Preprocessing & Cleaning the sample dataset using NLTK for sub-dataset `moring`
 ### Summary Day 2:
+Moring: we finished preprocessing email body with sample dataset
+Afternoon: We planed to move on to Topic modeling, then followed the dicussion with Pierre, we decided to Learn LDP/K-mean in order to do Top modeling. 
+
 #### Difficulty:
+Topic modeling is not as planed, we have to change our apporach(more deatils read above)
+Ps, if you have questions we are available :-)
 
 ---
 
 ### Day 3:
+- [ ] Topic modeling: try LDA method following tutorial `Hsin, Saina`
+- [ ] continue eploring K-mean `Alex`
+- [ ] 
 ### Summary Day 3:
 #### Difficulty:
 
