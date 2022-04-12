@@ -1,0 +1,34 @@
+enron dataset 
+fraud of the 2001 
+half milion of email -> topic modeling
+-> hierarchical modeling method 
+clustering -> making group of email. 
+sklearn ? umap ? 
+
+redundancy is ok
+
+mvp:
+read an email and all of email and manage to do some topic modeling
+
+noise, deal with it later. for the v2. 
+
+17h jeudi -> aditum consultance it 
+
+pre work -> try to classify them on a one topic
+
+find method on internet
+vestorization 
+
+nltk.freeq
+
+term ferquency - inverserse term ferquency 
+compare le therme avec les autres emails (search engine)
+
+extract topic -> grp of doc by topic 
+one topic per column (onehotencoding)
+reduce the dimension of our matrix
+top-down aproach ? (topic modeling)
+sparse matrix (scipy) 
+sparse k-mean (sklearn)
+tuple (post-tagging ?) -> type de mot en fonction du context (nltk function)
+gensim modeling library (lda vs lda.mallet)
