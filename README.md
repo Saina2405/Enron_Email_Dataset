@@ -6,6 +6,6 @@
 - Read news/links from given material
 
 ### Day 2:
-- [ ]Cleaning sample and preprocessing using NLTK for sub-dataset
-- [x]Learning NLTK, sellecting correct methods for this project
-- [ ]Topic modeling ?
+- [X]Cleaning and preprocessing using NLTK for sub-dataset
+- [X]Learning NLTK, sellecting correct methods for this project
+- [X]Getting to know knowledge related to Topic modeling, for instance, LDA & K-means
