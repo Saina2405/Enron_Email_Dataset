@@ -42,3 +42,5 @@ https://towardsdatascience.com/wthe-ultimate-guide-to-clustering-algorithms-and-
 https://rstudio-pubs-static.s3.amazonaws.com/72665_ea14c88f56d64a8b9366dc8c9aca6c5c.html 
 https://stackoverflow.com/questions/22797393/exactly-replicating-r-text-preprocessing-in-python 
 https://www.kaggle.com/code/jaykrishna/topic-modeling-enron-email-dataset/notebook 
+
+-> using only subject for k-means ?
