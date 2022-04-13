@@ -40,15 +40,20 @@ Ps, if you have questions we are available :-)
 ---
 
 ### Day 3:
-- [ ] Topic modeling: try LDA method following tutorial `Hsin, Saina`
-- [ ] continue eploring K-mean `Alex`
-- [ ]
+- [x] Topic modeling: try LDA method following tutorial `Hsin, Saina`
+- [x] continue eploring K-mean `Alex`
+- [x] Stat Streamlit UI
 ### Summary Day 3:
+We have a productive day, we managed to finish all the tasks and started to implement streamlit
 #### Difficulty:
+- Try to merge the code and make sure everyone is working on same code base. (solved)
 
 ---
 
 ### Day 4:
+- [ ] streamlit MVP `Alex Hsin`
+- [ ] Tweaking topick modeling `Saina`
+- [ ] Slide `everyone`
 ### Summary Day 4:
 #### Difficulty:
 
