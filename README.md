@@ -5,8 +5,8 @@
 - 13/04: [M] MVP iteration... [A] MVP v2
 - 14/04: [M] Polish MVP [A]Slide finish
 - 15/04: [M] Rehearse
-  
-## MVP 
+
+## MVP
 classify 5 fams email → everyone’s mail → UI interface
 
 ## Tasks:
@@ -27,11 +27,11 @@ classify 5 fams email → everyone’s mail → UI interface
 - [ ] Classify emails <br/>
 ~~Read news/links from given material~~  (discard)
 - [ ] Topic modeling
-- [x] Learning NLTK, sellecting correct methods for this project 
+- [x] Learning NLTK, sellecting correct methods for this project
 - [x] Preprocessing & Cleaning the sample dataset using NLTK for sub-dataset `moring`
 ### Summary Day 2:
 Moring: we finished preprocessing email body with sample dataset
-Afternoon: We planed to move on to Topic modeling, then followed the dicussion with Pierre, we decided to Learn LDP/K-mean in order to do Top modeling. 
+Afternoon: We planed to move on to Topic modeling, then followed the dicussion with Pierre, we decided to Learn LDP/K-mean in order to do Top modeling.
 
 #### Difficulty:
 Topic modeling is not as planed, we have to change our apporach(more deatils read above)
@@ -42,7 +42,7 @@ Ps, if you have questions we are available :-)
 ### Day 3:
 - [ ] Topic modeling: try LDA method following tutorial `Hsin, Saina`
 - [ ] continue eploring K-mean `Alex`
-- [ ] 
+- [ ]
 ### Summary Day 3:
 #### Difficulty:
 
