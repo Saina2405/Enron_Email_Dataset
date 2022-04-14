@@ -64,6 +64,6 @@ Having trouble on combining topics and e-mail dataframe.(resolved)
 ---
 
 ### Day 5:
-- [] Prepare presentation `everyone`
+- [ ] Prepare presentation `everyone`
 ### Summary Day 5:
 #### Difficulty:
