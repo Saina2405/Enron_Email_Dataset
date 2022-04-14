@@ -51,14 +51,19 @@ We have a productive day, we managed to finish all the tasks and started to impl
 ---
 
 ### Day 4:
-- [ ] streamlit MVP `Alex Hsin`
-- [ ] Tweaking topick modeling `Saina`
-- [ ] Slide `everyone`
+- [x] streamlit MVP `Alex`
+- [x] Tweaking topic modeling `Saina Hsin`
+- [x] Slide `everyone`
 ### Summary Day 4:
-#### Difficulty:
+Hsin and Saina spent morning on tweaking LDA model until the topics and keywords make sense.
+Alex worked on implementing streamlit, we finally have a MVP.
+In the afternoon, we spent 20 mins talking about slide structure and Saina worked on preparing slide.
 
+#### Difficulty:
+Having trouble on combining topics and e-mail dataframe.(resolved)
 ---
 
 ### Day 5:
+- [] Prepare presentation `everyone`
 ### Summary Day 5:
 #### Difficulty:
