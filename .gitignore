@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 .DS_Store
 data/*
-results/*
 raw/*
 *.pickle
