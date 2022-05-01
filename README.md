@@ -2,6 +2,14 @@
 
 ![demo](/assets/demo.png)
 
+# Run
+
+```bash
+python venv venv
+pip install -r requirements.txt
+streamlit run app.py
+```
+
 ## Roadmap:
 
 - 11/04: email file to df
